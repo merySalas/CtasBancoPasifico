@@ -9,6 +9,6 @@ package Modelo;
  *
  * @author kelly
  */
-public class CuentaAhorro extends Cuenta{
+public class CuentaSmart extends CuentaAhorro{
     
 }
