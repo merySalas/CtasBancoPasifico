@@ -5,17 +5,25 @@
  */
 package ctasbancopasifico;
 
-/**
- *
- * @author kelly
- */
+import Modelo.Cuenta;
+import Modelo.CuentaAhorro;
+import Modelo.CuentaCorriente;
+import java.util.ArrayList;
+import java.util.List;
+
+
+
 public class CtasBancoPasifico {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+       
+        
+       List<Cuenta> cuenta= new ArrayList<Cuenta>();
+        
+        
     }
     
 }

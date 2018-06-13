@@ -9,6 +9,6 @@ package Modelo;
  *
  * @author kelly
  */
-public class CuentaCorriente {
+public class CuentaCorriente extends Cuenta{
     
 }
